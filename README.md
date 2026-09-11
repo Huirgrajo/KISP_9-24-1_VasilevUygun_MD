@@ -13,7 +13,7 @@ Repository for classwork mobile development
 
     -KISP_24_1_FedorovDuluur_MD
 
-3. Клонировать репозиторий к себе на компьютер -
+3. Клонировать репозиторий к себе на компьютер
 
         ```git clone ссылка на репозиторий тип https```
 
